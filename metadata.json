@@ -1,0 +1,6 @@
+{
+  "name": "Hommix Unique Fast Food",
+  "description": "Homely, affordable restaurant and bakery in Uromi, Edo State, Nigeria. Good food, fair prices, open 24 hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

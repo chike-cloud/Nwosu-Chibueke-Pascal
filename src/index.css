@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Poppins', sans-serif;
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+  --color-brand-red: #c62828;
+  --color-brand-red-dark: #991b1b;
+  --color-brand-red-light: #ef4444;
+  --color-brand-yellow: #d97706;
+  --color-brand-gold: #f59e0b;
+  --color-brand-yellow-light: #fef3c7;
+  --color-brand-cream: #fbf8f2;
+  --color-brand-charcoal: #1e293b;
+  --color-brand-green: #15803d;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: #1e293b;
+  background-color: #fbf8f2;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, .font-display {
+  font-family: 'Poppins', sans-serif;
+}
